@@ -1,0 +1,28 @@
+name: Corazón de Aguacate
+favicon: null
+layout_spectrum: 0.7858741413801908
+typography_spectrum: 0.388122467789799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10380595503374934
+  lightness: 0.9468883972149342
+  saturation: 0.44310596864670515
+  rhythmicContrast: 0.02986368932761252
+purpose: []
