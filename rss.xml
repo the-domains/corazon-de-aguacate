@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Corazón de Aguacate]]></title>
+        <description><![CDATA[Corazón de Aguacate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 18:49:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bienvenido a Corazón de Aguacate.</p>]]></description>
+            <link>undefined5997bad3-b389-4f6d-9795-46a32b61012e/index.html</link>
+            <guid isPermaLink="false">5997bad3-b389-4f6d-9795-46a32b61012e</guid>
+            <pubDate>Fri, 26 Feb 2016 18:49:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
